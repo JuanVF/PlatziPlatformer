@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GroundCollision
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 4291355569
+    locked: 0
+  - name: BG-2
+    uniqueID: 3089147883
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: EmptyHearths
+    uniqueID: 2236928843
+    locked: 0
+  - name: FullHearths
+    uniqueID: 3842273413
+    locked: 0
